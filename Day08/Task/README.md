@@ -62,7 +62,7 @@ Within your javascript file (example: app.js), create separate JS object literal
     | Mid-Senior | 1000 | 1500 |
     | Junior     | 500  | 1000 |
 
-5. You will create a render function to render each employee's name with their salary on the home page using `document. write` or you can use `innerHTML` to display them.
+5. You will create a render function to render each employee's name with their salary on the home page using `document. write()` or you can use `innerHTML` to display them.
 - The output of the render function in the browser should look like this: 
 ```
 Employee name: Ghazi Samer
