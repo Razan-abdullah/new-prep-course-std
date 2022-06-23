@@ -12,7 +12,7 @@ Students should be able to:
 * [Constructor Functions](https://www.programiz.com/javascript/constructor-function)
 * [DOM (Document Object Model)](https://gabrieltanner.org/blog/javascript-dom-introduction)
 
-### Keywords to Search for: .
+### Keywords to Search for:
 * Constructor Functions.
 * Constructor Prototypes.
 * DOM

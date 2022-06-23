@@ -5,6 +5,7 @@ Students will be able to:
 - Work with HTML
 - Use Forms
 - Use Tables
+- Be able to add an input form to an HTML document with properly structured HTML including the necessary `<form>`, `<input>`, `<fieldset>`,and `<label>` tags.
 
 ## Resources:
 
