@@ -9,6 +9,7 @@
 //  
 // Input: [12, 32, 22, 45, 78, 12, 50]
 // Output: 78
+
 const findMax = (arr)=>{
     let max;
     // write your code here    
