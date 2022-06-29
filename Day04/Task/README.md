@@ -52,6 +52,6 @@ The following information should be provided in your wireframe:
 - Create a pull request
 - Deploy to the Github pages.
 - Submit the pull request and deployed version (Live URL) links.
-- Merge `todo-html` with the main branch
+- Merge `wireframe` with the main branch
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
