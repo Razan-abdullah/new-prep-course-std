@@ -31,9 +31,9 @@ You will create a new page for this lab `statistics.html`.
 
 ### **Style**
 
-1. Add some style for the header and the footer
+1. Add some style for the header and the footer.
 2. Add backgrounds, font colors, google fonts, and any additional style.
-3. Use a suitable color palette for your website. You can use [ColorHunt](https://colorhunt.co) .
+3. Use a suitable color palette for your website. You can use [ColorHunt](https://colorhunt.co).
 
 **Note:**
 Be creative and make your page professional.
