@@ -16,14 +16,11 @@ You will continue building on what you achieved in the last task.
 - Open it in VS code.
 
 ### **Home page**
-
-
-- You will refactor the render prototype function to render each employee's information in a separate card on the home page as shown below. Note that you will use images for the employees in the assets directory.
+- You will refactor the render prototype method to render each employee's information in a separate card on the home page as shown below. Note that you will use images for the employees in the assets directory.
 
 ![Card](assets/card.png)
 
 ### **Style**
-
 1. Add some style for the header and the footer
 2. Use flex to organize the content of the main content.
 3. Add backgrounds, font colors, google fonts, and any additional style.
@@ -33,7 +30,6 @@ You will continue building on what you achieved in the last task.
 Be creative and make your page professional.
 
 ### **Stretch goal**
-
 Separate the employees' cards by their department where you will have a separate section for each department.
 
 
