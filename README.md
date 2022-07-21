@@ -10,13 +10,13 @@
 | 02      | VCS, Git, GitHub, Markdown                       |
 | 03      | Branches, Pull requests, Conflicts, Github pages |
 | 04      | HTML  + CSS Intro + Wireframes                   |
-| 05      | HTML Forms + Tables                              |
+| 05      | CSS Layout + (colors, selectors,fonts...)        |
 
 ### Module 2
 
 | Class # | Topic                                                            |
 | ------- | ---------------------------------------------------------------- |
-| 06      | CSS Layout + (colors, selectors,fonts...)                        |
+| 06      | HTML Forms + Tables                                              |
 | 07      | JS (data types, operators, array, loops, functions, Popup boxes) |
 | 08      | JS (Obj intro to DOM) + Hoisiting                                |
 | 09      | JS (Constructors)                                                |
