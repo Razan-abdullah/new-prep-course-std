@@ -12,7 +12,7 @@ Students will be able to:
 - Understand hoisting in javascript.
 - Understand how object literals are structured in JavaScript, as well as how to access and reassign values/functionality to their properties and methods and `this` keyword.
 - Understand how dot notation and bracket notation are used to access/reassign properties and methods in JavaScript objects.
-- Understand  interpolation expressions.
+- Understand interpolation expressions.
 
 ## Resources
 * [Loops](https://www.javatpoint.com/javascript-loop)

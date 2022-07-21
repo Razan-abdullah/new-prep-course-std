@@ -1,5 +1,4 @@
 # HR-management-system
-
 ## **Task 08**
 
 ### **Overview**
@@ -49,10 +48,10 @@ Within your javascript file (example: app.js), create separate JS object literal
     - Image URL
     - Salary
 
-2. Create a function to generate a unique four digits employee id number.
+2. Create a method to generate a unique four digits employee id number.
 
 
-3. You will create a function for calculating the salary using the provided table by generating a random number between the minimum and maximum salary for each level, use the below table to calculate the salary depending on the employee level.
+3. You will create a method for calculating the salary using the provided table by generating a random number between the minimum and maximum salary for each level, use the below table to calculate the salary depending on the employee level.
 
 4. After calculating the random salary you should calculate the net salary where the tax percent is 7.5.
 
@@ -62,9 +61,9 @@ Within your javascript file (example: app.js), create separate JS object literal
     | Mid-Senior | 1000 | 1500 |
     | Junior     | 500  | 1000 |
 
-5. You will create a render function to render each employee's name with their salary on the home page using `document. write()` or you can use `innerHTML` to display them.
+5. You will create a render method to render each employee's name with their salary on the home page using `document. write()` or you can use `innerHTML` to display them.
 - The output of the render function in the browser should look like this: 
-```
+```js
 Employee name: Ghazi Samer
 Employee salary: 1728
 
@@ -84,8 +83,6 @@ Employee name: Hadi Ahmad
 Employee salary: 1121
 ```
 
-
-
 6. Use the information shown in the table below to create employee instances.
 
     | Employee ID | Full Name    | Department     | Level      |
@@ -101,10 +98,9 @@ Employee salary: 1121
 ### **Accounting page**
 
 - For now, this page should have:
-
-1. Header for navigating to any other pages.
-2. Main will be empty for today's task.
-3. Footer will have some social media links with copyright.
+  1. Header for navigating to any other pages.
+  2. Main will be empty for today's task.
+  3. Footer will have some social media links with copyright.
 
 
 ## Submission Instructions:
