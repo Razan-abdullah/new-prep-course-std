@@ -3,7 +3,6 @@
 ## Task 13
 
 ### **Overview**
-
 In this task you will continue building on what you achieved in the previous lab, you will use `Chart.js` CDN library to display the data from the table in two different shapes.
 
 ## **Requirements**
@@ -13,11 +12,9 @@ In this task you will continue building on what you achieved in the previous lab
 - Today you will continue working on your `Restaurant` repo.
 - Update your **README** file to add your changes for today.
 - Check out a new branch called `chartJS` for today's lab.
-- Install chart.js library `npm install chart.js`
 - Open it in VS code.
 
 ### Inside **Statistics page** :
-
 Below the food types table, create two forms of charts:
 
 - `Pie` chart :
@@ -46,6 +43,5 @@ Add more styling to your website, make it look professional, and just ready for 
 - Submit the pull request and deployed version (Live URL) links.
 - Merge `chartJS` with the main branch.
 - Answer these two questions in the submission comments:
-
   - What observations or questions do you have about what you’ve learned so far?
   - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
