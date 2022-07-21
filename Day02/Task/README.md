@@ -16,12 +16,10 @@ Today you will start setting things up and create a GitHub repository.
 
 2. **Skim the following resource:**
    - Read this resource carefully:
-   [good-developer-mindset.](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
-   - As the second paragraph in your **README.md** file, write what you learned from your reading. 
+   [Good Developer Mindset](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+   - As a second paragraph in your **README.md** file, write what you learned from your reading. 
 
 3. Do **A-C-P** (add, commit, push).
 
-
 ## Submission Instructions:
    - Share your repository link.
-
