@@ -1,17 +1,16 @@
 # Task 06:
 
 ## Overview:
-Today will be the beginning of a multi-Task project, where you will build a ToDo List website called (ToDo).
+Today will be the beginning of a multi-Task project, where you will build a ToDo List website called **ToDo**.
 
 ## Problem Domain:
-You are building a ToDo List Website, where the Users can display their tasks and check the status for each one.
+You are building a ToDo List Website, where the users can display their tasks and check the status of each one.
 
 ## Requirements:
 
 1. **Set up your Github Repository:**
    - Create a new repository called `todo-project`
-
-   - Add a **README** file.
+   - Add a **README.md** file.
    - Clone this repo to your local machine.
    - Check out a new branch called `todo-html` for today's task.
    - Open it in VS code.
