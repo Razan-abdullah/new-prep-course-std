@@ -15,11 +15,12 @@ When you complete your course enrollment, you will get an email inviting you to 
 The most important thing is that you have to have a Gmail email or account to use google classroom so this is the first step.
 
 ## Github Setup
+- Go to [GitHub.com](https://github.com/).
+- Sign up for a free account (Choose a professional username).
+
 If you already have a GitHub account, Great! Complete any remaining steps.
 
-
-- Go to [GitHub.com](https://github.com/).
-- Sign up for a free account.
+- In the Profile section fill the following sections: Bio(small intro), Profile picture(Please make it professional).
 - Let us know a bit about yourself by setting up your profile section. Display your full name, as it will appear on your resume.
 - Add your profile picture. Remember, use the same image as your LMS profile and Slack!
 - Pro Tip: Keep GitHub Presentable
