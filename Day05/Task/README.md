@@ -1,8 +1,7 @@
 # Task 05:
 
 ## Overview:
-Today will continue working on the my-restaurant website
-
+Today will continue working on the **my-restaurant** website
 
 ## Requirements:
 
