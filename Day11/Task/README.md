@@ -42,12 +42,9 @@ You will create only one page for this lab `index.html`.
     - Price.
 
 You will create an instance each time you submit the `form`, and fill the object from the `form` inputs.
-
-2. Create a function to generate a unique four digits for the food id number.
-
+2. Create a method to generate a unique four digits for the food id number.
 3. You will add an event listener to get the data from the `form` instead of having hard-coded data.
-
-4. You will create a `render prototype` function to render each food name with their information from the `form` on the home page as a table view as below.
+4. You will create a `render prototype` method to render each food name with their information from the `form` on the home page as a table view as below.
 
 ![Card](assets/table.png)
 
@@ -61,7 +58,6 @@ You will create an instance each time you submit the `form`, and fill the object
 
 **Note:**
 Be creative and make your page professional.
-
 
 ## Submission Instructions:
 - When your work is complete and ready for submission, push to the `events` branch.
