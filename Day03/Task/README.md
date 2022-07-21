@@ -10,7 +10,7 @@ Today we will build a website using Markdown language.
    - Type of dishes that the restaurant will offer
    - Menu
 
- 1. **Setting up a repository**
+2. **Setting up a repository**
    - Create a repository and call it  **my-restaurant**.
    - Add a **README.md** file to your repository.
    - Clone the repository to your local machine.
