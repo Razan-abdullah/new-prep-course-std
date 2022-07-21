@@ -19,9 +19,9 @@ You will continue building on what you achieved in the last task.
 
 1. Replace all of your object literals for the `HR-management-system` with a single constructor function that, when called with the ‘new’ keyword, creates a new instance.
 
-2. You will refactor the render function to be a prototype function to render each employee name, department, and employee salary using `document.write()` or `innerHTML` as the following.
+2. You will refactor the render method to be a prototype method to render each employee name, department, and employee salary using `document.write()` or `innerHTML` as the following.
 
-3. Note that you need to keep the functions that are responsible for **generating employeeID** and **calculating the salary**. 
+3. Note that you need to keep the methods that are responsible for **generating employeeID** and **calculating the salary**. 
 
 ```
 Employee name: Ghazi Samer
@@ -48,8 +48,6 @@ Employee name: Hadi Ahmad
 Department: Finance
 Employee salary: 1121
 ```
-
-
 
 ## Submission Instructions:
 - When your work is complete and ready for submission, push it to the `constructor` branch.
