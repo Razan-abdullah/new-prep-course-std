@@ -71,6 +71,8 @@ tree --version
 Once you set up your accounts, leave a message in the submission field for this assignment with your personal introduction (and pronoun) to the instructional team along with the URL to your GitHub profile page.
 See you in the Google classroom, GitHub, Discord, and Slack; and see you in class soon!
 
+MY GITHUB ACCOUNT LINK: https://github.com/Razan-abdullah 
+
 ## Submission Instructions For Installation 
 
 You have to submit a screenshot for the report that you will get after running all of the commands above 
